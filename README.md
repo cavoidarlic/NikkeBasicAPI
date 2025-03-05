@@ -1,6 +1,7 @@
 # NIKKE Character API
 
 This repository contains data files for NIKKE: Goddess of Victory character information organized by rarity.
+- Thank you Trid for helping me.
 
 ## Files
 
