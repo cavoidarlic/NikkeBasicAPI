@@ -7,17 +7,19 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c330_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c330_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/7b/Crown_MI.png/revision/latest?cb=20240425072157"
     },
     "red hood": {
         "name": "Red Hood",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Pilgrim",
-        "burst": "V",
+        "burst": "All",
         "element": "Iron",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c470_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c470_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/ca/Red_Hood_MI.png/revision/latest?cb=20231123052435"
     },
     "modernia": {
         "name": "Modernia",
@@ -27,7 +29,8 @@ SSR_CHARACTERS = {
         "element": "Fire",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c260_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c260_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/80/Modernia_MI.png/revision/latest?cb=20231123052408"
     },    
     "grave": {
         "name": "Grave",
@@ -37,7 +40,8 @@ SSR_CHARACTERS = {
         "element": "Fire",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c514_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c514_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8a/Grave_MI.png/revision/latest?cb=20241031011853"
     },    
     "cinderella": {
         "name": "Cinderella",
@@ -47,7 +51,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c511_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c511_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b2/Cinderella_MI.png/revision/latest?cb=20241031011726"
     },
     "scarlet: black shadow": {
         "name": "Scarlet: Black Shadow",
@@ -57,7 +62,8 @@ SSR_CHARACTERS = {
         "element": "Wind",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c225_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c225_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d9/Scarlet_Black_Shadow_MI.png/revision/latest?cb=20231228082455"
     },    
     "dorothy": {
         "name": "Dorothy",
@@ -67,7 +73,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c233_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c233_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b2/Dorothy_MI.png/revision/latest?cb=20231123052324"
     },
     "snow white": {
         "name": "Snow White",
@@ -77,7 +84,8 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c220_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c220_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/24/Snow_White_MI.png/revision/latest?cb=20231123052445"
     },        
     "scarlet": {
         "name": "Scarlet",
@@ -87,7 +95,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c222_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c222_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/45/Scarlet_MI.png/revision/latest?cb=20231123052441"
     },
     "rapunzel": {
         "name": "Rapunzel",
@@ -97,7 +106,8 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c221_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c221_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c9/Rapunzel_MI.png/revision/latest?cb=20231123052434"
     },  
     "snow white: innocent days": {
         "name": "Snow White: Innocent Days",
@@ -107,37 +117,41 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c224_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c224_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a7/Snow_White_Innocent_Days_MI.png/revision/latest?cb=20231123052444"
     },
     "rapunzel: pure grace": {
         "name": "Rapunzel: Pure Grace",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Pilgrim",
         "burst": "I",
         "element": "Iron",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c226_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c226_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b7/Rapunzel_Pure_Grace_MI.png/revision/latest?cb=20241031011939"
     },  
     "harran": {
         "name": "Harran",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Pilgrim",
         "burst": "III",
         "element": "Electric",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c230_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c230_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/85/Harran_MI.png/revision/latest?cb=20231123052340"
     },
     "nihilister": {
         "name": "Nihilister",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Pilgrim",
         "burst": "II",
         "element": "Fire",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c261_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c261_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d8/Nihilister_MI.png/revision/latest?cb=20231123052414"
     },  
     "noah": {
         "name": "Noah",
@@ -147,7 +161,8 @@ SSR_CHARACTERS = {
         "element": "Wind",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c232_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c232_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/80/Noah_MI.png/revision/latest?cb=20231123052414"
     },
     "isabel": {
         "name": "Isabel",
@@ -157,7 +172,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c231_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c231_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/cc/Isabel_MI.png/revision/latest?cb=20231123052346"
     },
         "rapi: red hood": {
         "name": "Rapi: Red Hood",
@@ -167,7 +183,8 @@ SSR_CHARACTERS = {
         "element": "Fire",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c016_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c016_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c5/Rapi_Red_Hood_MI.png/revision/latest?cb=20241226095930"
     },
     "mast: romantic maid": {
         "name": "Mast: Romantic Maid",
@@ -177,7 +194,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c354_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c354_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/22/Mast_Romantic_Maid_MI.png/revision/latest?cb=20250123133334"
     },
     "anchor: innocent maid": {
         "name": "Anchor: Innocent Maid",
@@ -187,17 +205,19 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c355_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c355_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/12/Anchor_Innocent_Maid_MI.png/revision/latest?cb=20250123133848"
     },
     "d: killer wife": {
         "name": "D: Killer Wife",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Elysion",
         "burst": "I",
         "element": "Fire",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c043_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c043_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c9/D_Killer_Wife_MI.png/revision/latest?cb=20240307130621"
     },
     "maiden: ice rose": {
         "name": "Maiden: Ice Rose",
@@ -207,7 +227,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c183_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c183_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/24/Maiden_Ice_Rose_MI.png/revision/latest?cb=20241205131643"
     },
     "phantom": {
         "name": "Phantom",
@@ -217,7 +238,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c580_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c580_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c4/Phantom_MI.png/revision/latest?cb=20240919105145"
     },
     "privaty: unkind maid": {
         "name": "Privaty: Unkind Maid",
@@ -227,7 +249,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c313_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c313_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/84/Privaty_Unkind_Maid_MI.png/revision/latest?cb=20240212154315"
     },
     "privaty": {
         "name": "Privaty",
@@ -237,7 +260,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c170_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c170_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e8/Privaty_MI.png/revision/latest?cb=20231123052426"
     },
     "zwei": {
         "name": "Zwei",
@@ -247,9 +271,10 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c390_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c390_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/98/Zwei_MI.png/revision/latest?cb=20240808084948"
     },
-    "heim: aquamarine": {
+    "helm: aquamarine": {
         "name": "Helm: Aquamarine",
         "weapon": "AR",
         "manufacturer": "Elysion",
@@ -257,17 +282,19 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c353_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c353_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fb/Helm_Aquamarine_MI.png/revision/latest?cb=20231123052341"
     },
-    "heim": {
-        "name": "Heim",
-        "weapon": "SR",
+    "helm": {
+        "name": "Helm",
+        "weapon": "SNR",
         "manufacturer": "Elysion",
         "burst": "III",
         "element": "Water",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c352_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c352_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8a/Helm_MI.png/revision/latest?cb=20231123052342"
     },
     "guillotine: winter slayer": {
         "name": "Guillotine: Winter Slayer",
@@ -277,7 +304,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c182_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c182_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/12/Guillotine_MI.png/revision/latest?cb=20231123052337"
     },
     "mast": {
         "name": "Mast",
@@ -287,7 +315,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c350_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c350_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c9/Mast_MI.png/revision/latest?cb=20231123052401"
     },
     "miranda": {
         "name": "Miranda",
@@ -297,7 +326,8 @@ SSR_CHARACTERS = {
         "element": "Fire",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c032_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c032_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/51/Miranda_MI.png/revision/latest?cb=20231123052406"
     },
     "marciana": {
         "name": "Marciana",
@@ -307,7 +337,8 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c321_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c321_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f4/Marciana_MI.png/revision/latest?cb=20231123052356"
     },
     "guillotine": {
         "name": "Guillotine",
@@ -317,7 +348,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c180_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c180_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/12/Guillotine_MI.png/revision/latest?cb=20231123052337"
     },
     "soline": {
         "name": "Soline",
@@ -327,7 +359,8 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c071_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c071_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4e/Soline_MI.png/revision/latest?cb=20231123052449"
     },
     "poli": {
         "name": "Poli",
@@ -337,7 +370,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c030_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c030_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/11/Poli_MI.png/revision/latest/scale-to-width/360?cb=20231123052423"
     },
     "d": {
         "name": "D",
@@ -347,7 +381,8 @@ SSR_CHARACTERS = {
         "element": "Wind",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c040_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c040_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/aa/D_MI.png/revision/latest?cb=20231123052318"
     },
     "quiry": {
         "name": "Quiry",
@@ -357,7 +392,8 @@ SSR_CHARACTERS = {
         "element": "Wind",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c033_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c033_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0f/Quiry_MI.png/revision/latest?cb=20231123052430"
     },
     "diesel": {
         "name": "Diesel",
@@ -365,9 +401,10 @@ SSR_CHARACTERS = {
         "manufacturer": "Elysion",
         "burst": "II",
         "element": "Wind",
-        "class": "Dedender",
+        "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c072_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c072_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c9/Diesel_MI.png/revision/latest?cb=20231123052321"
     },
     "vesti": {
         "name": "Vesti",
@@ -377,7 +414,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c091_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c091_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/7a/Vesti_MI.png/revision/latest?cb=20231123052454"
     },
     "brid": {
         "name": "Brid",
@@ -387,7 +425,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c070_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c070_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/78/Brid_MI.png/revision/latest?cb=20231123052312"
     },
     "maiden": {
         "name": "Maiden",
@@ -397,7 +436,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c181_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c181_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/ce/Maiden_MI.png/revision/latest?cb=20231123052354"
     },
     "neon: blue ocean": {
         "name": "Neon: Blue Ocean",
@@ -407,7 +447,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c014_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c014_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/92/Neon_Blue_Ocean_MI.png/revision/latest?cb=20231123053920"
     },
     "emma": {
         "name": "Emma",
@@ -417,17 +458,19 @@ SSR_CHARACTERS = {
         "element": "Fire",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c090_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c090_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8a/Emma_MI.png/revision/latest?cb=20231123052329"
     },
     "eunhwa": {
         "name": "Eunhwa",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Elysion",
         "burst": "II",
         "element": "Fire",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c092_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c092_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/27/Eunhwa_MI.png/revision/latest?cb=20231123052332"
     },
     "signal": {
         "name": "Signal",
@@ -437,7 +480,8 @@ SSR_CHARACTERS = {
         "element": "Fire",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c022_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c022_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f3/Signal_MI.png/revision/latest/scale-to-width/360?cb=20231123052443"
     },
     "liter": {
         "name": "Liter",
@@ -447,7 +491,8 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c082_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c082_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c2/Liter_MI.png/revision/latest?cb=20231123052351"
     },
     "naga": {
         "name": "Naga",
@@ -457,7 +502,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c450_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c450_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f6/Naga_MI.png/revision/latest?cb=20231123052410"
     },
     "tia": {
         "name": "Tia",
@@ -467,7 +513,8 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c451_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c451_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/59/Tia_MI.png/revision/latest?cb=20231123052452"
     },
     "quency: escape queen": {
         "name": "Quency: Escape Queen",
@@ -477,27 +524,30 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c403_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c403_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/07/Quency_Escape_Queen_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20240919105143"
     },
     "maxwell": {
         "name": "Maxwell",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Missilis",
         "burst": "III",
         "element": "Iron",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c102_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c102_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/9f/Maxwell_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052402"
     },
     "ein": {
         "name": "Ein",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Missilis",
         "burst": "III",
         "element": "Electric",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c391_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c391_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/05/Ein_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20240725132002"
     },
     "mana": {
         "name": "Mana",
@@ -507,7 +557,8 @@ SSR_CHARACTERS = {
         "element": "Wind",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c290_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c290_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3f/Mana_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20250116141021"
     },
     "elegg": {
         "name": "Elegg",
@@ -517,7 +568,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c500_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c500_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/88/Elegg_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20240222133156"
     },
     "pepper": {
         "name": "Pepper",
@@ -527,7 +579,8 @@ SSR_CHARACTERS = {
         "element": "Wind",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c131_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c131_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b6/Pepper_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052422"
     },
     "tove": {
         "name": "Tove",
@@ -537,7 +590,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c192_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c192_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/7d/Tove_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052452"
     },
     "laplace": {
         "name": "Laplace",
@@ -547,7 +601,8 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c100_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c100_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/68/Laplace_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052350"
     },
     "drake": {
         "name": "Drake",
@@ -557,17 +612,19 @@ SSR_CHARACTERS = {
         "element": "Fire",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c101_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c101_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e9/Drake_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052326"
     },
     "admi": {
         "name": "Admi",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Missilis",
         "burst": "II",
         "element": "Wind",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c172_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c172_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fd/Admi_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052302"
     },
     "centi": {
         "name": "Centi",
@@ -577,17 +634,19 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c080_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c080_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ad/Centi_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052315"
     },
     "trony": {
         "name": "Trony",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Missilis",
         "burst": "III",
         "element": "Fire",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c501_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c501_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/10/Trony_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20240516113125"
     },
     "guilty": {
         "name": "Guilty",
@@ -597,9 +656,10 @@ SSR_CHARACTERS = {
         "element": "Wind",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c400_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c400_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/69/Guilty_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052338"
     },
-    "anne: airacle fairy": {
+    "anne: miracle fairy": {
         "name": "Anne: Miracle Fairy",
         "weapon": "RL",
         "manufacturer": "Missilis",
@@ -607,7 +667,8 @@ SSR_CHARACTERS = {
         "element": "Wind",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c121_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c121_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8f/Anne_Miracle_Fairy_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052307"
     },
     "kilo": {
         "name": "Kilo",
@@ -617,7 +678,8 @@ SSR_CHARACTERS = {
         "element": "Fire",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c361_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c361_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4d/Kilo_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20240425072318"
     },
     "quency": {
         "name": "Quency",
@@ -627,7 +689,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c402_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c402_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5a/Quency_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052430"
     },
     "flora": {
         "name": "Flora",
@@ -637,7 +700,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c411_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c411_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/dd/Flora_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20241121074917"
     },
     "jackal": {
         "name": "Jackal",
@@ -647,7 +711,8 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c111_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c111_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/55/Jackal_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052347"
     },
     "epinel": {
         "name": "Epinel",
@@ -657,7 +722,8 @@ SSR_CHARACTERS = {
         "element": "Wind",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c241_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c241_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4f/Epinel_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052330"
     },
     "yuni": {
         "name": "Yuni",
@@ -667,7 +733,8 @@ SSR_CHARACTERS = {
         "element": "Fire",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c160_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c160_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3f/Yuni_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052500"
     },
     "sin": {
         "name": "Sin",
@@ -677,7 +744,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c401_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c401_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/48/Sin_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052444"
     },
     "julia": {
         "name": "Julia",
@@ -687,7 +755,8 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c150_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c150_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/45/Julia_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052349"
     },
     "crow": {
         "name": "Crow",
@@ -697,27 +766,30 @@ SSR_CHARACTERS = {
         "element": "Fire",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c110_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c110_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6c/Crow_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052317"
     },
     "alice": {
         "name": "Alice",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Tetra",
         "burst": "III",
         "element": "Fire",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c191_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c191_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/ce/Alice_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052304"
     },
     "rouge": {
         "name": "Rouge",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Tetra",
         "burst": "I",
         "element": "Electric",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c272_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c272_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1a/Rouge_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20240919110106"
     },
     "blanc": {
         "name": "Blanc",
@@ -727,7 +799,8 @@ SSR_CHARACTERS = {
         "element": "Wind",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c270_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c270_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8c/Blanc_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052311"
     },
     "noir": {
         "name": "Noir",
@@ -737,7 +810,8 @@ SSR_CHARACTERS = {
         "element": "Wind",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c271_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c271_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/14/Noir_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052415"
     },
     "rosanna: chic ocean": {
         "name": "Rosanna: Chic Ocean",
@@ -747,7 +821,8 @@ SSR_CHARACTERS = {
         "element": "Wind",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c283_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c283_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b0/Rosanna_Chic_Ocean_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20240704105815"
     },
     "ludmilla: winter owner": {
         "name": "Ludmilla: Winter Owner",
@@ -757,7 +832,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c194_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c194_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a3/Ludmilla_Winter_Owner_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231207072339"
     },
     "anis: sparkling summer": {
         "name": "Anis: Sparkling Summer",
@@ -767,7 +843,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c015_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c015_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/ea/Anis_Sparkling_Summer_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052305"
     },
     "volume": {
         "name": "Volume",
@@ -777,7 +854,8 @@ SSR_CHARACTERS = {
         "element": "Wind",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c431_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c431_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/72/Volume_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052456"
     },
     "soda: twinkling bunny": {
         "name": "Soda: Twinkling Bunny",
@@ -787,7 +865,8 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c314_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c314_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/39/Soda_Twinkling_Bunny_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20240530180148"
     },
     "sakura: bloom in summer": {
         "name": "Sakura: Bloom in Summer",
@@ -797,17 +876,19 @@ SSR_CHARACTERS = {
         "element": "Wind",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c284_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c284_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/64/Sakura_Bloom_in_Summer_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20240704105135"
     },
     "dolla": {
         "name": "Dolla",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Tetra",
         "burst": "II",
         "element": "Wind",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c202_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c202_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/60/Dolla_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052323"
     },       
     "alice: wonderland bunny": {
         "name": "Alice: Wonderland Bunny",
@@ -817,7 +898,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c195_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c195_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d5/Alice_Wonderland_Bunny_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20240530180845"
     },  
     "noise": {
         "name": "Noise",
@@ -827,7 +909,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c430_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c430_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b9/Noise_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052417"
     },  
     "biscuit": {
         "name": "Biscuit",
@@ -837,7 +920,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c381_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c381_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/21/Biscuit_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052310"
     },    
     "rumani": {
         "name": "Rumani",
@@ -847,7 +931,8 @@ SSR_CHARACTERS = {
         "element": "Fire",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c240_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c240_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/91/Rumani_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20241017093525"
     },                                          
     "rupee": {
         "name": "Rupee",
@@ -857,7 +942,8 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c200_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c200_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a1/Rupee_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052438"
     },  
     "moran": {
         "name": "Moran",
@@ -867,17 +953,19 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c281_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c281_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ad/Moran_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20240111121042"
     },                                          
     "mary: bay goddess": {
         "name": "Mary: Bay Goddess",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Tetra",
         "burst": "I",
         "element": "Water",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c132_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c132_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3f/Mary_Bay_Goddess_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052358"
     }, 
     "sugar": {
         "name": "Sugar",
@@ -887,7 +975,8 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c140_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c140_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ad/Sugar_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052451"
     },                                          
     "novel": {
         "name": "Novel",
@@ -897,7 +986,8 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c212_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c212_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/67/Novel_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052419"
     }, 
     "leona": {
         "name": "Leona",
@@ -907,7 +997,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c382_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c382_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/52/Leona_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20240111121012"
     },                                          
     "mica: snow buddy": {
         "name": "Mica: Snow Buddy",
@@ -917,7 +1008,8 @@ SSR_CHARACTERS = {
         "element": "Iron",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c062_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c062_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6d/Mica_Snow_Buddy_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231207072747"
     }, 
     "ade": {
         "name": "Ade",
@@ -927,17 +1019,19 @@ SSR_CHARACTERS = {
         "element": "Wind",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c310_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c310_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/99/Ade_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20240205204813"
     }, 
     "yulha": {
         "name": "Yulha",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Tetra",
         "burst": "III",
         "element": "Fire",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c171_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c171_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2b/Yulha_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052459"
     },      
     "viper": {
         "name": "Viper",
@@ -947,7 +1041,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c112_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c112_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a4/Viper_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052455"
     },           
     "bay": {
         "name": "Bay",
@@ -957,27 +1052,30 @@ SSR_CHARACTERS = {
         "element": "Fire",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c550_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c550_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/36/Bay_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20240411193921"
     },
     "sakura": {
         "name": "Sakura",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Tetra",
         "burst": "I",
         "element": "Fire",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c282_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c282_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f9/Sakura_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052440"
     },
     "milk": {
         "name": "Milk",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Tetra",
         "burst": "I",
         "element": "Water",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c141_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c141_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/30/Milk_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052406"
     },
     "clay": {
         "name": "Clay",
@@ -987,17 +1085,19 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c551_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c551_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ab/Clay_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20240620181112"
     },
     "frima": {
         "name": "Frima",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Tetra",
         "burst": "I",
         "element": "Iron",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c142_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c142_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5d/Frima_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052336"
     },
     "soda": {
         "name": "Soda",
@@ -1007,17 +1107,19 @@ SSR_CHARACTERS = {
         "element": "Fire",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c312_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c312_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/76/Soda_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052446"
     },
     "cocoa": {
         "name": "Cocoa",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Tetra",
         "burst": "I",
         "element": "Fire",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c311_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c311_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c1/Cocoa_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052316"
     },
     "folkwang": {
         "name": "Folkwang",
@@ -1027,7 +1129,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c242_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c242_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/eb/Folkwang_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052335"
     },
     "aria": {
         "name": "Aria",
@@ -1037,7 +1140,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c432_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c432_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/da/Aria_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052308"
     },
     "nero": {
         "name": "Nero",
@@ -1047,17 +1151,19 @@ SSR_CHARACTERS = {
         "element": "Fire",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c380_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c380_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/59/Nero_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052412"
     },
     "exia": {
         "name": "Exia",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Tetra",
         "burst": "I",
         "element": "Electric",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c210_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c210_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/df/Exia_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052334"
     },
     "ludmilla": {
         "name": "Ludmilla",
@@ -1067,7 +1173,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c190_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c190_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b6/Ludmilla_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052352"
     },
     "rei": {
         "name": "Rei",
@@ -1077,7 +1184,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c392_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c392_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e4/Rei_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052435"
     },
     "rupee: winter shopper": {
         "name": "Rupee: Winter Shopper",
@@ -1087,7 +1195,8 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Defender",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c203_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c203_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/70/Rupee_Winter_Shopper_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052439"
     },
     "yan": {
         "name": "Yan",
@@ -1097,7 +1206,8 @@ SSR_CHARACTERS = {
         "element": "Fire",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c201_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c201_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/54/Yan_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052458"
     },
     "mary": {
         "name": "Mary",
@@ -1107,7 +1217,8 @@ SSR_CHARACTERS = {
         "element": "Water",
         "class": "Supporter",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c130_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c130_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e1/Mary_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052359"
     },
     "rosanna": {
         "name": "Rosanna",
@@ -1117,6 +1228,7 @@ SSR_CHARACTERS = {
         "element": "Electric",
         "class": "Attacker",
         "rarity": "SSR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c280_00_s.webp"
-    }    
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c280_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b8/Rosanna_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052436"
+    }
 }
