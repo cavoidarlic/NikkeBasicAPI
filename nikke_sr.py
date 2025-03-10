@@ -7,7 +7,8 @@ SR_CHARACTERS = {
         "element": "Water",
         "class": "Supporter",
         "rarity": "SR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c120_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c120_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b8/N102_MI.png/revision/latest?cb=20231123052409"
     },
     "anchor": {
         "name": "Anchor",
@@ -17,7 +18,8 @@ SR_CHARACTERS = {
         "element": "Wind",
         "class": "Defender",
         "rarity": "SR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c351_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c351_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d1/Anchor_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052305"
     },
     "rapi": {
         "name": "Rapi",
@@ -27,7 +29,8 @@ SR_CHARACTERS = {
         "element": "Fire",
         "class": "Attacker",
         "rarity": "SR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c010_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c010_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/82/Rapi_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123043651"
     },
     "neon": {
         "name": "Neon",
@@ -37,17 +40,19 @@ SR_CHARACTERS = {
         "element": "Fire",
         "class": "Supporter",
         "rarity": "SR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c011_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c011_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/14/Neon_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052411"
     },
     "delta": {
         "name": "Delta",
-        "weapon": "SR",
+        "weapon": "SNR",
         "manufacturer": "Elysion",
         "burst": "II",
         "element": "Iron",
         "class": "Defender",
         "rarity": "SR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c020_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c020_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6f/Delta_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052318"
     },
     "mihara": {
         "name": "Mihara",
@@ -57,7 +62,8 @@ SR_CHARACTERS = {
         "element": "Water",
         "class": "Attacker",
         "rarity": "SR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c161_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c161_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b9/Mihara_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052404"
     },
     "ether": {
         "name": "Ether",
@@ -67,7 +73,8 @@ SR_CHARACTERS = {
         "element": "Electric",
         "class": "Defender",
         "rarity": "SR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c291_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c291_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/33/Ether_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052332"
     },
     "neve": {
         "name": "Neve",
@@ -77,7 +84,8 @@ SR_CHARACTERS = {
         "element": "Water",
         "class": "Attacker",
         "rarity": "SR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c193_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c193_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1f/Neve_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052413"
     },
     "anis": {
         "name": "Anis",
@@ -87,7 +95,8 @@ SR_CHARACTERS = {
         "element": "Iron",
         "class": "Defender",
         "rarity": "SR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c012_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c012_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bc/Anis_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052306"
     },
     "belorta": {
         "name": "Belorta",
@@ -97,16 +106,18 @@ SR_CHARACTERS = {
         "element": "Electric",
         "class": "Attacker",
         "rarity": "SR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c060_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c060_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/07/Belorta_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052309"
     },
     "mica": {
         "name": "Mica",
         "weapon": "RL",
         "manufacturer": "Tetra",
         "burst": "I",
-        "element": "Wnd",
+        "element": "Wind",
         "class": "Supporter",
         "rarity": "SR",
-        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c061_00_s.webp"
+        "icon_url": "https://static.dotgg.gg/nikke/characters/si_c061_00_s.webp",
+        "image_url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b7/Mica_MI.png/revision/latest/thumbnail-down/width/200/height/200?cb=20231123052403"
     }
 }
